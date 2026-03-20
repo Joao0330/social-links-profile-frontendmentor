@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/social-links-profile-using-tailwindcss-play-cdn-ASIAJbFjia)
 - Live Site URL: [Live site URL](https://joao0330.github.io/social-links-profile-frontendmentor)
 
 ## My process
